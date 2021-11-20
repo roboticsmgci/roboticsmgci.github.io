@@ -4,6 +4,16 @@ classes: wide
 title: Gallery
 permalink: /gallery/
 gallery:
+  - url: /assets/images/16.jpg
+    image_path: /assets/images/16.jpg
+    title: "MGCI Robotics 2019."
+  - url: /assets/images/17.jpg
+    image_path: /assets/images/17.jpg
+    title: "Emergency robot surgery."
+  - url: /assets/images/18.jpg
+    image_path: /assets/images/18.jpg
+    title: "Last-minute improvements."
+gallery2:
   - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
     title: "Two robots battle it out!"
@@ -30,7 +40,9 @@ gallery:
     title: "Setting up on the field."
   - url: /assets/images/9.jpg
     image_path: /assets/images/9.jpg
-    title: "MGCI Robotics 2018"
+    title: "MGCI Robotics 2018."
 ---
 
-{% include gallery caption="# 2018 Sumobots" %}
+{% include gallery caption="# 2019 Sumobots" %}
+
+{% include gallery id="gallery2" caption="# 2018 Sumobots" %}
