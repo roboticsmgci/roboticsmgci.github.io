@@ -21,7 +21,7 @@ gallery:
     title: "The smiles of accomplishment!"
   - url: /assets/images/6.jpg
     image_path: /assets/images/6.jpg
-    title: "Team is ecstatic after another successful year!"
+    title: "Ecstatic after another successful year!"
   - url: /assets/images/7.jpg
     image_path: /assets/images/7.jpg
     title: "Robot up close and in detail!"
