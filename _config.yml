@@ -19,8 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the website for MGCI Robotics, Marc Garneau Collegiate Institute's Robotics Club. We are also known as FRC Team 8574.
 twitter_username: username
 github_username: roboticsmgci
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
+repository: roboticsmgci/roboticsmgci.github.io
 
 # Build settings
 markdown: kramdown
