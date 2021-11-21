@@ -4,7 +4,7 @@ title: "Robotics in a Pandemic"
 tag: Update
 category: Updates
 ---
-![robot with hammer](/assets/images/robot.jpg)
+![robot with hammer](/assets/images/robot.webp)
 Amidst the unprecedented pandemic, many around the world have adapted their lives and slowly returned to some normalcy. FIRST Robotics was no exception to this, launching a total of four virtual and in-person opportunities that FIRST Robotics Competition teams can choose to participate in. There’s something for every team, and the activities cover virtually every aspect of robotics. They are as follows:
 
 |Name|Description|
