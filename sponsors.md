@@ -20,9 +20,6 @@ gallery2:
   - url: /assets/images/14.webp
     image_path: /assets/images/14.webp
     title: "University of Toronto Faculty of Applied Science and Engineering"
-  - url: /assets/images/15.webp
-    image_path: /assets/images/15.webp
-    title: "Aris Painting"
 ---
 
 {% include gallery caption="# Current Sponsors" %}
