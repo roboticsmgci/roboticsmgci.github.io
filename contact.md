@@ -15,5 +15,3 @@ Check out our code on [Github](https://github.com/roboticsmgci) <i class="fab fa
 Join us on [Instagram](https://www.instagram.com/mgci_robotics/) <i class="fab fa-fw fa-instagram">
 
 Subscribe to our [Atom XML Feed](https://mgcirobotics.github.io/feed.xml) <i class="fas fa-atom">
-
-Urgent message? Call us at [647-947-1395](tel:+16479491395) <i class="fa fa fa-phone">
