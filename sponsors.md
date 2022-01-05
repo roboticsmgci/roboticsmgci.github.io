@@ -22,6 +22,12 @@ gallery2:
     title: "University of Toronto Faculty of Applied Science and Engineering"
 ---
 
+# Sponsorship Package
+<iframe src="https://drive.google.com/file/d/1Q14lgIjhE_X0HMmALUz8qVyIkgwCk3ws/preview" width="640" height="480" allow="autoplay"></iframe>
+
+# Team Resume
+<iframe src="https://drive.google.com/file/d/1ChUkdEoZY_oYDUfS_x2-u6IoaZxlwn9a/preview" width="640" height="480" allow="autoplay"></iframe>
+
 {% include gallery caption="# Current Sponsors" %}
 
 {% include gallery id="gallery2" caption="# Past Sponsors" %}
