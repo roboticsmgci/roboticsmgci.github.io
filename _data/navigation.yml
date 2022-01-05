@@ -1,12 +1,12 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "Blog"
     url: /posts/
   - title: "Gallery"
     url: /gallery/
-  - title: "Sponsors"
-    url: /sponsors/
   - title: "Resources"
     url: /resources/
   - title: "Contact"
