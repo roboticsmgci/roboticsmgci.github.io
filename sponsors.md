@@ -13,6 +13,9 @@ gallery:
   - url: /assets/images/12.webp
     image_path: /assets/images/12.webp
     title: "Toronto District School Board"
+  - url: /assets/images/19.webp
+    image_path: /assets/images/19.webp
+    title: "Intuitive Foundation"
 gallery2:
   - url: /assets/images/13.webp
     image_path: /assets/images/13.webp
