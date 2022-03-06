@@ -19,6 +19,9 @@ gallery:
   - url: /assets/images/20.webp
     image_path: /assets/images/20.webp
     title: "SEW Eurodrive"
+  - url: /assets/images/21.webp
+    image_path: /assets/images/21.webp
+    title: "Sable Metal Fabrication"
 gallery2:
   - url: /assets/images/13.webp
     image_path: /assets/images/13.webp
