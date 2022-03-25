@@ -22,6 +22,9 @@ gallery:
   - url: /assets/images/21.webp
     image_path: /assets/images/21.webp
     title: "Sable Metal Fabrication"
+  - url: /assets/images/22.webp
+    image_path: /assets/images/22.webp
+    title: "Alexanian Carpet and Flooring"
 gallery2:
   - url: /assets/images/13.webp
     image_path: /assets/images/13.webp
