@@ -38,7 +38,7 @@ gallery2:
 <iframe src="https://drive.google.com/file/d/1Q14lgIjhE_X0HMmALUz8qVyIkgwCk3ws/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # Team Resume
-<iframe src="https://drive.google.com/file/d/1ChUkdEoZY_oYDUfS_x2-u6IoaZxlwn9a/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1-5_cYtey7JWUA3WLOh7Jf0NZTYrpoT9H/preview" width="640" height="480" allow="autoplay"></iframe>
 
 {% include gallery caption="# Current Sponsors" %}
 
