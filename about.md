@@ -10,6 +10,10 @@ We're a passionate and dedicated group of students who are the Robotics Club of 
 |**Competition/Award**|**Years Received**|
 |---|---|
 |**FIRST Robotics Competition**|-|
+|Ontario Rookie All Star Award|2022|
+|Rookie All Star Award|2022|
+|Rookie Inspiration Award|2022|
+|Highest Rookie Seed Award|2022|
 |Rookie Design Award|2021|
 |**UOIT Sumobots**|-|
 |Champion|2018, 2019|
