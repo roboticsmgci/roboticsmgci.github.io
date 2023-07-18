@@ -10,13 +10,13 @@ Here are some resources to help you on your robotics journey. Feel free to [cont
 
 Our most recent workshops and their accompanying presentations can be found [here](https://docs.google.com/spreadsheets/d/1Tpr3lpUMrtuQ8yURY3n5JeD2UYIrc-Uiu4cAJOTxVl8/edit).
 
-## FIRST Robotics Competition
+## First Robotics Competition
 
 | Description                                                                                                        | Link |
 | ------------------------------------------------------------------------------------------------------------------ | ---- |
 | We are still compiling useful resources for the FRC, and will be posting them here before the build season starts. | -    |
 
-## FIRST Lego League
+## First Lego League
 
 | Description                                                                                   | Link                                                                                                                   |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
